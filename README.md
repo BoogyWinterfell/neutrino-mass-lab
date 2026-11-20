@@ -51,7 +51,7 @@ This repository contains the raw experimental data and analysis code for the lab
 
 ### In Google Colab
 1. Upload `Neutrino_Mass_Workspace_Amir_and_Ben.ipynb` to any open Google Colab window (the Colab environment already includes the required dependencies).
-2. Open the **Files** sidebar on the left and upload/copy the `neutrino-mass-data` directory into `/content/` (so it sits alongside the default `sample_data` directory).
+2. Open the **Files** sidebar on the left and upload/copy the files under `neutrino-mass-data/OriginalMeasurements` directory into `/content/` (so it sits alongside the default `sample_data` directory).
 3. Run all cells (`Runtime > Run all`). The paths in the notebook are pre-configured for `/content/neutrino-mass-data/`.
 
 ### Locally (VS Code)
