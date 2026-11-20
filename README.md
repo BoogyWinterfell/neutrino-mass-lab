@@ -58,3 +58,4 @@ This repository contains the raw experimental data and analysis code for the lab
 1. In your selected virtual environment, install the dependencies:
    ```bash
    pip install -r requirements.txt
+2. Update the data directory path at the top of Neutrino_Mass_Workspace_Amir_and_Ben.ipynb to point to your local neutrino-mass-data folder, then run all cells.
